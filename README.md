@@ -5,3 +5,5 @@
 ---
 # github,git 使い方テスト
 リモートから変更を加える　　→ fetchの動作確認
+
+pull --rebase  のtest  
